@@ -1,4 +1,3 @@
-[![MasterHead](https://media.istockphoto.com/vectors/devops-software-development-operations-infinity-symbol-web-concept-vector-id1323937065?k=20&m=1323937065&s=612x612&w=0&h=MG52_xKV7TjFJEZLzOAJQTuAXkf-_zr_bB5IHq4yT2c=)](https://sri09kanth.io)
 # 💫 About Me:
 👋 Hi, I’m @Srikanth Mergu<br>👀 I’m interested in DevOps<br>📫 How to reach me LinkedIn:- srikanthmergu2009
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
