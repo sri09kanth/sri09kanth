@@ -39,11 +39,6 @@
 
 ---
 
-## 🚀 Featured Projects  
-- [🔗 CI/CD Pipeline with Jenkins & Kubernetes](https://github.com/sri09kanth/devops-ci-cd) – Automated pipeline with Docker, Helm & K8s.  
-- [🔗 Infrastructure as Code with Terraform](https://github.com/sri09kanth/terraform-aws-infra) – Provisioning AWS VPC, EC2, and EKS clusters.  
-- [🔗 Monitoring Stack](https://github.com/sri09kanth/monitoring-stack) – Prometheus + Grafana setup with alerts.  
-
 ---
 
 # 📊 GitHub Stats  
